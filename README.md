@@ -1,2 +1,15 @@
-# Lab-Fork-Sisop
-Lab Fork de la materia Sistemas Operativos. Cátedra Méndez. FIUBA. 1C 2023.
+# lab-fork
+
+Repositorio para el esqueleto del [lab fork](https://fisop.github.io/7508/lab/fork) del curso Mendez-Fresia de **Sistemas Operativos (7508) - FIUBA**
+
+## Compilar
+
+```bash
+$ make
+```
+
+## Linter
+
+```bash
+$ make format
+```
